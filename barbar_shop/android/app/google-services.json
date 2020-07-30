@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79272246024",
+    "firebase_url": "https://chatapp-d489c.firebaseio.com",
+    "project_id": "chatapp-d489c",
+    "storage_bucket": "chatapp-d489c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79272246024:android:307ad86cbc7862761c8abd",
+        "android_client_info": {
+          "package_name": "com.sakibul.barbar_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79272246024-fj0cgpv82lq47bu5d8qnkn4irqn94koc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRRH1R8YFikD9Z0anz4USIZpxvrCEcWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79272246024-fj0cgpv82lq47bu5d8qnkn4irqn94koc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
